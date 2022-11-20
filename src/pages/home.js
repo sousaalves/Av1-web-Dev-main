@@ -14,13 +14,13 @@ const SAMPLE_CARDS = [
   {
     id: 1,
     question: 'Can You show me?',
-    answer: 'Voce pode me mostrar?',
+    answer: 'Você pode me mostrar?',
     options: ['']//opção para implementar dicas
   },
   {
     id: 2,
     question: 'Can you throw that away for me?',
-    answer: 'Você pode jagar isso fora pra mim?',
+    answer: 'Você pode jogar isso fora pra mim?',
     options: ['']
   },
   {
@@ -38,7 +38,7 @@ const SAMPLE_CARDS = [
   {
     id: 5,
     question: 'Am I pronouncing it correctly?',
-    answer: 'E estou pronunciando corretamente?',
+    answer: 'Eu estou pronunciando corretamente?',
     options: ['']
   },
   {
