@@ -1,0 +1,25 @@
+h2{
+    color: #ff793f;
+}
+
+.logo{
+    width: 3vw;
+    margin-right: .5rem;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: .5rem 2rem;
+}
+
+.header span{
+    display: flex;
+    align-items: center;
+}
+
+.header a{
+    color: #ff793f;
+    text-decoration: none;
+}
